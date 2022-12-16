@@ -1,0 +1,6 @@
+{
+	"appId": "com.digital.trader",
+	"appName": "Digital-Trader",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

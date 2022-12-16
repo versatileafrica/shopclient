@@ -1,0 +1,45 @@
+.eac{
+    width: 50%;
+    font-family: Cool jazz;
+    /* background-color: aliceblue; */
+    background-color: rgb(64, 204, 251);
+    border-radius: 5px;
+    max-height: 100px;
+    min-width: 140px;
+    margin-bottom: 40px;
+    text-align: start;
+    box-shadow: 1px 3px 2px black ;
+    padding-top: 20px;
+    
+    
+}
+.ether{
+    font-size: medium;
+    font-weight: bolder;
+    overflow-y: auto;
+}
+.ethern{
+    font-size: smaller;
+}
+
+
+.ee{
+    width: 70%;
+    min-height: 50px;
+    margin-left: 20px;
+    /* background: rgb(25, 125, 100); */
+    /* border-bottom: 1px solid #0a0909; */
+    padding-top: 15px;
+    text-align: center;
+    
+}
+.aa{
+    padding-top: 10px;
+    width: 70%;
+    min-height: 50px;
+    margin-left: 20px;
+    text-align: center;
+    
+    
+    
+}

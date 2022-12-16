@@ -1,0 +1,7 @@
+{
+  "name": "Digital-Trader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
